@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.csv$|\\\\.txt$\")",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
